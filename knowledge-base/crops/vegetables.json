@@ -1,0 +1,20 @@
+{
+  "crops": [
+    {
+      "name": "Tomato",
+      "scientific_name": "Solanum lycopersicum",
+      "diseases": [
+        "Early Blight",
+        "Late Blight"
+      ]
+    },
+    {
+      "name": "Potato",
+      "scientific_name": "Solanum tuberosum",
+      "diseases": [
+        "Early Blight",
+        "Late Blight"
+      ]
+    }
+  ]
+}

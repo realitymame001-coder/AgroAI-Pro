@@ -1,0 +1,16 @@
+{
+  "diseases": [
+    {
+      "name": "Early Blight",
+      "cause": "Alternaria solani",
+      "natural_treatment": "Neem oil",
+      "chemical_treatment": "Mancozeb"
+    },
+    {
+      "name": "Late Blight",
+      "cause": "Phytophthora infestans",
+      "natural_treatment": "Garlic spray",
+      "chemical_treatment": "Copper fungicide"
+    }
+  ]
+}
