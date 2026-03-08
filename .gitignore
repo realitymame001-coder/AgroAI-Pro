@@ -2,7 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+dataset/
+*.pth
+*.h5
+*.pt
+*.tflite
+__pycache__/
 # C extensions
 *.so
 
