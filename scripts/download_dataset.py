@@ -1,7 +1,6 @@
-import kaggle
+import kagglehub
 
-kaggle.api.dataset_download_files(
-    "emmarex/plantdisease",
-    path="dataset",
-    unzip=True
-)
+# Download latest version
+path = kagglehub.dataset_download("emmarex/plantdisease")
+
+print("Path to dataset files:", path)
